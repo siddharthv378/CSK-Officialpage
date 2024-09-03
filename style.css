@@ -1,0 +1,77 @@
+
+.header-banner {
+    background-image: url('ttps://www.chennaisuperkings.com/shop/_next/image?url=https%3A%2F%2Fstore.chennaisuperkings.com2F%2Fmedia%2Fbanners%2FCSK_Merch_banner_revised_1519x350_1_.png&w=1920&q=75'); /* Replace with your background image */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.header-banner img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Categories Sidebar */
+.categories-sidebar {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+}
+
+/* Product Cards */
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+}
+
+.product-card img {
+    max-height: 200px;
+    width: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.product-card h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.product-card p {
+    font-size: 1rem;
+    color: #333;
+}
+
+.product-card:hover {
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+.footer {
+    background-color: #0066b3;
+    color: white;
+    padding: 10px 0;
+}
+.footer .social-icons a {
+    color: white;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.footer .social-icons a:hover {
+    color: #ffd700; /* CSK Yellow */
+}
+.footer .footer-text {
+    font-size: 14px;
+}
+.footer .footer-links a {
+    color: white;
+    margin-left: 10px;
+}
+.footer .footer-links a:hover {
+    text-decoration: underline;
+}
